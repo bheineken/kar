@@ -8,7 +8,8 @@ int main()
 {
     float fahr,celsius;
     int upper,lower,step;
-    //Let's start at 0 Fahrenheit juts like the other program and let's add the header
+    //Let's start at 0 Fahrenheit juts like the other program 
+    //and let's add the header
     //After a quick google fahrenheit = (celsius * 9/5) +32
     upper = 200;
     lower = 0;
