@@ -18,7 +18,7 @@ int main()
     int c;
     while ((c = getchar()) != EOF){
         c = getchar();
-        printf("Result: %d\n", c != EOF);
+        printf("Expression result: %d\n", c != EOF);
     }
     return 0;
 }
