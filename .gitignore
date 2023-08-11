@@ -53,3 +53,4 @@ dkms.conf
 
 # Some files I don't need
 scratchpad.c
+typessize.c
